@@ -1,5 +1,5 @@
 # Hi 👋, I'm Goooler
-An Android developer focused on Android & Kotlin
+A developer focused on Android & Kotlin
 
 ![](https://github-profile-trophy.vercel.app/?username=goooler)
 
